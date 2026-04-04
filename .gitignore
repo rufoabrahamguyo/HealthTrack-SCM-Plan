@@ -3,6 +3,7 @@
 *.dll 
 *.exe 
 # Ignore sensitive environment configs (SECURITY)
+*.env
 .env 
 config.js 
 # Ignore IDE settings (PERSONAL SCOPE) 
